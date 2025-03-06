@@ -20,7 +20,7 @@ public class Card {
 	MiniCard miniCard;
 	BigCard bigCard;
 	
-	boolean isCreature;
+	public boolean isCreature;
 	String unitConfig;
 	
 	public Card() {};
