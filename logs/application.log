@@ -1,0 +1,10 @@
+2025-03-02 21:41:34,684 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-5 - Slf4jLogger started
+2025-03-02 21:41:34,930 [INFO] from org.hibernate.validator.internal.util.Version in play-dev-mode-akka.actor.default-dispatcher-6 - HV000001: Hibernate Validator 6.1.0.Final
+2025-03-02 21:41:35,225 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-6 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.csrf.CSRFFilter
+
+2025-03-02 21:41:35,236 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-6 - Application started (Dev) (no global state)
